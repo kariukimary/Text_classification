@@ -6,7 +6,7 @@ Various steps in building the model includes,
 
 -data analysis and exploration 
 
--Feature engineering( count  vectorization to change text to  numerical)
+-Feature engineering( count  vectorization to convert text to  numerical)
 
 -model building and  evaluation
 
