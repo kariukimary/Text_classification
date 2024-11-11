@@ -1,5 +1,6 @@
 # Text_classification
-The repository  involves classification of text as eithe spam or not spam.
+The repository  involves clasification of text as either spam or not spam., a technique that is commonly used in Gmail in filtering the messages which are spam
+
 Various steps in building the model includes, 
 
 -data loading 
